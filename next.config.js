@@ -5,6 +5,9 @@ const nextConfig = {
   images: {
     domains: ["links.papareact.com", "image.tmdb.org"],
   },
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 module.exports = nextConfig;
