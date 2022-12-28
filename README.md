@@ -1,4 +1,4 @@
-# Pokédex - ReactJS
+# Hulu Clone - ReactJS
 
 ## 📷 Screenshot
 
