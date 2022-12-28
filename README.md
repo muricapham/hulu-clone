@@ -3,7 +3,7 @@
 ## 📷 Screenshot
 
 <p>
-  <img alt="screenshot" width="100%" src="./src/assets/screenshot.png" />
+  <img alt="screenshot" width="100%" src="./assets/screenshot.png" />
 </p>
 
 ## 📝 Project Description
